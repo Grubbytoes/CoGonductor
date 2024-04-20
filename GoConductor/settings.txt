@@ -1,0 +1,3 @@
+musicBus: Master
+soundEffectsBus: Master
+welcomeMessage: Hello!!
