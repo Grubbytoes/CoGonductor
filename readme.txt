@@ -1,6 +1,8 @@
 Thank you for agreeing to test the first complete (but none the less rough and ready...) version of GoCondcutor! Go into Documentation/using-goconductor for how to 'get started'. There's no strict/formal time period, any time you can spend over the next week or two is apreciated. I would not presume to ask for more than an hour or and hour and a half. 
 
-go to https://users.sussex.ac.uk/haaa20/goconductor-docs/using-goconductor for the docs!
+Go to https://users.sussex.ac.uk/haaa20/goconductor-docs/using-goconductor for the docs!
+
+Go to https://github.com/Grubbytoes/pixel-adventure/releases/tag/0.1 for Pixel Adventure
 
 REMEMBER: this is user testing, so if (hopefully not) using GoConductor turns out to be confusing/frustrating to use, and if you find yourself unable to complete all or any of the tasks written above after a reasonable amount of time, please do not feel like you need to force yourself to keep working with it if you don't want to.
 
